@@ -1,0 +1,8 @@
+## Interface: 80000
+## Title: Masque: |cffffffffMasque_Gm_Sr|r
+## Notes: A Masque skin
+## Author: Axilea, Nemesis(it)
+## Version: 801-2018081101
+## Dependencies: Masque
+
+core.lua

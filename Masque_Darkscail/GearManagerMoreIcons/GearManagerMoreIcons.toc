@@ -1,0 +1,6 @@
+## Interface: 60200
+## Title: GearManagerMoreIcons
+## Notes: Shows more icons in GearManager
+## Author: another
+## Version: 1.16
+gmmi.lua

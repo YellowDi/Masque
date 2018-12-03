@@ -1,0 +1,8 @@
+## Interface: 60200
+## Title: Masque: Elegance_Legion2
+## Version: 1.0
+## Author: Nightology
+## Notes: Elegance_Legion2 skin for Masque_CleanUI.
+## Dependencies: Masque_CleanUI
+
+Elegance_Legion2.lua

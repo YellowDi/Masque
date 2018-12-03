@@ -1,0 +1,7 @@
+﻿## Interface: 70100
+## Title: Masque: |cffFF4500HeyBarbaruivaUI|r
+## Author: HeyBarbaruiva
+## Notes: Action Bar Skin for HeyBarbaruivaUI
+## Dependencies: Masque
+
+Config.lua

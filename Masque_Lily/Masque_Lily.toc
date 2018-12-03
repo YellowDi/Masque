@@ -1,0 +1,8 @@
+﻿## Interface: 70300
+## Title: |cffff8000Lily|r
+## Author: Lily.Petal
+## Version: 7.6
+## Notes: Masque Skin for Lily
+## Dependencies: Masque
+
+Masque_Lily.lua

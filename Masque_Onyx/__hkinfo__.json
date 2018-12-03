@@ -1,0 +1,23 @@
+{
+	"search": 0,
+	"searchList": [
+		{
+			"img": "https://media.forgecdn.net/avatars/thumbnails/100/887/62/62/636318508220549832.png",
+			"name": "Masque: Onyx",
+			"fileName": "masque-onyx",
+			"description": "Onyx skins for Masque."
+		},
+		{
+			"img": "https://media.forgecdn.net/avatars/thumbnails/59/466/62/62/636141466320035714.jpg",
+			"name": "Cloud Serpent Onyx Eggs Coords - TomTom",
+			"fileName": "cloud-serpent-onyx-egg-coords",
+			"description": "Onyx Egg coordinates for TomTom"
+		},
+		{
+			"img": "/app/image/anvilBlack.png",
+			"name": "Cloud Serpent",
+			"fileName": "cloud-serpent",
+			"description": "A simple addon to help you obtain Onyx Eggs for the Order of the Cloud Serpent reputation grind."
+		}
+	]
+}

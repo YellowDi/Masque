@@ -1,0 +1,8 @@
+## Interface: 80000
+## Title: Masque: |cffffffffRaeli|r
+## Notes: Raeli's skin for Masque.
+## Version: 9
+## Author: Raeli
+## Dependencies: Masque
+
+Masque_Raeli.lua

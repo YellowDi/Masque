@@ -1,0 +1,23 @@
+{
+	"search": 2,
+	"searchList": [
+		{
+			"img": "https://media.forgecdn.net/avatars/thumbnails/117/135/62/62/636399932337165678.png",
+			"name": "Bagnon Garbage",
+			"fileName": "bagnon-garbage",
+			"description": "A simple plugin for bagnon that desaturates and tones down garbage in your bags"
+		},
+		{
+			"img": "/app/image/anvilBlack.png",
+			"name": "Audio Tweaks - Warrior",
+			"fileName": "audiotweakswarrior",
+			"description": "Tweaks and tones down the intensity of the most common warrior combat sounds"
+		},
+		{
+			"img": "https://media.forgecdn.net/avatars/thumbnails/57/331/62/62/636141403541412995.jpg",
+			"name": "Masque: Tones",
+			"fileName": "buttonfacade_tones",
+			"description": "Masque: Tones"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+tag 6.0.0.1-stable
+a6b460f5bbc29491627e35b59111038c5a60391a
+moonwitch <kelly.crabbe@gmail.com>
+2014-10-26 16:50:36 +0100
+
+Tagging as 6.0.0.1 - stable
+
+
+--------------------
+
+No changelog

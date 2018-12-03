@@ -1,0 +1,8 @@
+## Interface: 50400
+## Title: Masque: |cffff8000Nefs2|r
+## Version: 1.7
+## Notes: Nefs2 skin for Masque.
+## Author: Nefs/edit by Tonyleila
+## Dependencies: Masque
+
+Skins.lua

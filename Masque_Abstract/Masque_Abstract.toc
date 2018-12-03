@@ -1,0 +1,19 @@
+## Interface: 60000
+## Title: Masque: |cff7dfe44Abstract|r
+## Version: wow6.0.2-2.0
+## DefaultState: Enabled
+## Dependencies: Masque
+## Notes: Abstract skins for Masque.
+## Notes-deDE: Abstract Skins für Masque.
+## Notes-esMX: Abstract texturas para Masque.
+## Notes-esES: Abstract texturas para Masque.
+## Notes-frFR: Skin Abstract pour Masque.
+## Notes-koKR: Masque에 대한 Abstract 스킨.
+## Notes-ruRU: Abstract Шкурки для Masque.
+## Notes-zhCN: 为Masque Abstract皮肤。
+## Notes-zhTW: Abstract皮膚的Masque。
+## Author: Djidiouf
+## X-eMail: djidiouf@gmail.com
+## Credits: StormFX and JJ Sheets (creators of ButtonFacade/Masque), Sairen (creator of cyCircled)
+
+Skins.lua

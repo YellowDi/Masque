@@ -1,0 +1,18 @@
+﻿## Interface: 50300
+## Title: Masque: |cffffffffLeila|r
+## Version: 1.7
+## Notes: Leila skins for Masque.
+## Notes-deDE: Leilas Skin für Masque.
+## Notes-esMX: Leilas textur para Masque.
+## Notes-esES: Leila textur para Masque.
+## Notes-frFR: Skin Leila pour Masque.
+## Notes-koKR: ButtonFacade에 대한 Leila 스킨.
+## Notes-ruRU: Leila Шкурки для Masque.
+## Notes-zhCN: 为ButtonFacade Leila皮肤。
+## Notes-zhTW: Leila皮膚的ButtonFacade。
+## Author: Tonyleila
+## X-Category: Interface Enhancements
+## X-Credits: Sairen, StormFX
+## Dependencies: Masque
+
+Skins.lua

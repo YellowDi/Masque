@@ -1,0 +1,18 @@
+## Interface: 80000
+## Title: Masque: |cffff8000Cainyx|r
+## Version: 8.0.0
+## Author: WoWLoreConfusedMe
+## Dependencies: Masque
+## Notes: Cainyx skins for Masque.
+## Notes-deDE: Cainyx-Skin für Masque.
+## Notes-esES: Skin Cainyx para Masque.
+## Notes-esMX: Skin Cainyx para Masque.
+## Notes-itIT: Skin Cainyx per Masque.
+## Notes-ruRU: Скин Cainyx для Masque.
+## Notes-zhTW: Masque的Cainyx皮膚。
+## X-Website: https://www.wowinterface.com/downloads/info18682
+## X-Category: Interface Enhancements
+## X-Credits: WoWLoreConfusedMe
+## X-WoWI-ID: 8888
+
+Cainyx.lua

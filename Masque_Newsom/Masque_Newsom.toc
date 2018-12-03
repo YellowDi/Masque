@@ -1,0 +1,10 @@
+﻿## Interface: 80000
+## Title: Masque: |cff267EFFNewsom|r
+## Author: Newsom
+## Version: 8.0
+## DefaultState: enabled
+## Dependencies: Masque
+## X-Copyright: This addon is released into the Public Domain and may be modified and redistributed in any way, along with its graphics.
+## X-Email: leo@leobolin.com
+
+Masque_Newsom.lua
